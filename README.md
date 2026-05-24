@@ -38,13 +38,13 @@ The final report contains **three pages**:
 ## 🖼️ Screenshots
 
 ### **Dashboard Page**
-![Dashboard](./Images/Screenshot1.png)
+![Dashboard](./Screenshot1.png)
 
 ### **MTD Report Page**
-![MTD Report](./Images/Screenshot2.png)
+![MTD Report](./Screenshot2.png)
 
 ### **Same Period Last Year Page**
-![Same Period Last Year](./Images/Screenshot3.png)
+![Same Period Last Year](./Screenshot3.png)
 
 > 📌 *Rename your actual screenshot files as*  
 `Screenshot1.png`, `Screenshot2.png`, `Screenshot3.png`  
